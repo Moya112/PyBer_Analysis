@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-## Project Overview
+# Project Overview
 
 1. Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
 2. Determine the mean, median, and mode for the following:
@@ -17,12 +17,12 @@
   - The percent of total drivers.
 
 
-## Resources
+# Resources
   - Data Source: PyBer.ipynb, 
   - Software: Python 3.10.5, Pandas, Jupyter Notebook, Matplolib, Numpy
 
 
-## Challenge Overview
+# Challenge Overview
 
 The CEO of Pyber has requested the team to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, the team will create a multiple-line graph that shows the total weekly fares for each city type.
 
